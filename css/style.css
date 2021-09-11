@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 1;
+    background-color: #f3f4f5;
+}
+
+.seccionA p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #757575;
+    padding: 10px;
+}
+
+.seccionA a{
+    color: #757575;;
+    text-decoration: none;
+}
+
+.seccionA a:hover{
+    color: darkgray;
+}
+
+.cabeza-body h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.img-cabeza{
+    display: block;
+    margin: auto;
+
+}
+
+.seccionA ul li{
+    padding: 5px;
+}
